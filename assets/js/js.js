@@ -7,6 +7,7 @@ logo.style.minWidth = "150px";
 logo.style.position = "absolute";
 logo.style.top = "10px";
 logo.style.left = "10px";
+logo.style.opacity = "0.8";
 let signinCard = document.createElement("div");
 signinCard.className = "main";
 let head = document.createElement("h1");
