@@ -1,7 +1,7 @@
 let body = document.querySelector("body");
 let logo = document.createElement("img");
 logo.src =
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/2560px-Netflix_logo.svg.png";
+  "http://storage.designcrowd.com/design_img/550847/31826/31826_3692438_550847_image.jpg";
 logo.style.width = "15%";
 logo.style.minWidth = "150px";
 logo.style.position = "absolute";
